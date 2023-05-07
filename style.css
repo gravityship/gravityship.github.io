@@ -1,7 +1,7 @@
 body {
     background-color: #73c8a9;
     font-family: 'American Typewriter', serif;
-    background-image: linear-gradient(to right, #0636d1, #65c6ef);
+    background-image: linear-gradient(to right, ##d106a2, #d1062f);
 }
 
 canvas {
@@ -10,7 +10,7 @@ canvas {
     display: block;
     margin: 50px auto;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    background-image: url('assets/space.jpeg');
+    background-image: url('assets/1722.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     /* we will make the end menu overlap the game canvas, so we need here a lower z-index */
