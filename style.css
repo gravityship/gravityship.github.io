@@ -1,7 +1,7 @@
 body {
     background-color: #73c8a9;
     font-family: 'American Typewriter', serif;
-    background-image: linear-gradient(to right, ##d106a2, #d1062f);
+    background-image: linear-gradient(to right, #d106a2, #d1062f);
 }
 
 canvas {
